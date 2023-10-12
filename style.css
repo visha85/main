@@ -1,0 +1,66 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}   
+ul{
+    display:flex;
+    justify-content: end;
+}
+#link{
+    list-style: none;
+    padding: 05px;
+    width: 100px;
+}
+#link a{
+    color: black;
+    text-decoration: none;
+}
+#logo {
+    height: 100px;
+    width: 100px;
+
+}
+#navbar{
+    display:flex;
+    justify-content: end;
+}
+#logo{
+    margin-right: 900px;    
+}
+#para{
+    width:700px;
+}
+#hero{
+    display:flex; 
+    justify-content: center;    
+    align-items: center;  
+}
+#hero img{
+    width: 650px;
+    height: 400px;
+    border-radius: 15px;
+}
+#comeon{
+    color: rgb(153, 43, 61);
+}
+#text h3{
+    color:rgb(17, 158, 158)
+}
+#text h1:hover{
+    font-weight:700px;
+    color:darkorchid;
+}
+.flex{
+    display: flex;
+}
+#offer{
+    justify-content: center;
+}
+.feature{
+    border:5px solid red;
+}
+
+
+
+
+
+
